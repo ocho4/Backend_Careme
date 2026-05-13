@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/Logo_CareMe.png" alt="CareMe Logo" width="220"/>
+ <img src="https://raw.githubusercontent.com/Fabriziolara17/CareMe-Prueba-commits/main/docs/Logo_CareMe.png" width="220"/>
 
 # CareMe — Backend API
 
