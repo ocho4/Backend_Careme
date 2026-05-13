@@ -315,7 +315,7 @@ Se implementaron **13 historias de usuario** distribuidas en las 5 epicas del pr
 
 ### Diagrama Entidad-Relacion (ERD)
 
-![ERD CareMe](docs/ERD_CareMe.png)
+![ERD CareMe](https://raw.githubusercontent.com/Fabriziolara17/CareMe-Prueba-commits/main/docs/ERD_CareMe.png)
 
 ### Listado de Tablas
 
